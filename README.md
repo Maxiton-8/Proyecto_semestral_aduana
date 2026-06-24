@@ -35,7 +35,7 @@ Donde:
 ## Integrantes
 
 - Grupo N°2
-- isidora carreño
-- axel contreras
-- alexis encalada
-- maximiliano fuentes
+- Isidora Carreño
+- Axel Contreras
+- Alexis Encalada
+- Maximiliano Fuentes
